@@ -44,12 +44,11 @@ void function(void){
 }
 ```
 
-
-
-## Herramientas de Programación: 
-
 ### Compilación
-
+pre. instalar glib.h 
+```
+$ sudo apt-get install libglib2.0-dev
+```
 1. Compilar todo.
 
 > make all
